@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kelvinbar
+- 👋 Hi, I’m kelvin
 - 👀 I’m interested in laravel python django and vue
 
 
